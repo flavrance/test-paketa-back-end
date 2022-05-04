@@ -1,4 +1,4 @@
-# Entrevista técnica - Paketá Crédito
+# Entrevista técnica - Paketá Crédito.
 
 Este repostório é destinado às entrevistas técnicas para os cargos de desenvolvedores da Paketá. 
 
